@@ -54,7 +54,7 @@ npm install
 
 ## Issues
 
-As of now there shouldn't be any issues with this in deployment.
+When clicking into places route the images arent working & when clicking into each place web page errors out.
 
 # API Documentation
 
@@ -62,14 +62,25 @@ As of now there shouldn't be any issues with this in deployment.
 
 [API List Docs Here]
 
-### Reference Documentation
+# End Points 
 
-<!-- Technical information regarding each function exposed by the API, including return values, parameters, and general         structure. -->
+*/
+*/#
+*/places
+*/places/id
+*/
+*/
+*/
 
-### Tutorial Documentation
+# Values Returned 
 
-<!-- step-by-step directions for accomplishing specific tasks. Include as much detail as possible about various endpoints and parameters. -->
+{
+  "userId": 16,
+  "firstName": "John",  // Example value
+  "lastName": "Doe",    // Example value
+  "email": "john.doe@example.com", // Example value
+  "passwordDigest": "hashed_password_here", // Example value
+  "createdAt": "2023-01-01T00:00:00.000Z", // Example value
+  "updatedAt": "2023-01-01T00:00:00.000Z"  // Example value
+}
 
-### Conceptual Documentation
-
-<!-- Concepts and how APIs and functions work together in your application. -->
