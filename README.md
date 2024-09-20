@@ -64,8 +64,7 @@ When clicking into places route the images aren't working & when clicking into e
 
 # End Points 
 
-*   /
-*   /#
+*   / or /#
 *   /places
 *   /places/placeId
 *   /users
