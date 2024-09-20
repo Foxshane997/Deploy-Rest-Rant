@@ -54,7 +54,7 @@ npm install
 
 ## Issues
 
-When clicking into places route the images arent working & when clicking into each place web page errors out.
+When clicking into places route the images aren't working & when clicking into each place web page errors out.
 
 # API Documentation
 
@@ -64,23 +64,20 @@ When clicking into places route the images arent working & when clicking into ea
 
 # End Points 
 
-*/
-*/#
-*/places
-*/places/id
-*/
-*/
-*/
+*   /
+*   /#
+*   /places
+*   /places/placeId
+*   /users
+*   /profile
+*   /authentication
 
 # Values Returned 
 
-{
-  "userId": 16,
-  "firstName": "John",  // Example value
-  "lastName": "Doe",    // Example value
-  "email": "john.doe@example.com", // Example value
-  "passwordDigest": "hashed_password_here", // Example value
-  "createdAt": "2023-01-01T00:00:00.000Z", // Example value
-  "updatedAt": "2023-01-01T00:00:00.000Z"  // Example value
-}
-
+*  userId
+*  firstName
+*  lastName
+*  email
+*  passwordDigest
+*  createdAt
+*  updatedAt
